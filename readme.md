@@ -1,1 +1,1 @@
-![alt_text](https://github.com/IlyasaPunjungWicaksono/TokoKomputerCI/screenshot/blob/master/login.png)
+![alt_text](https://github.com/IlyasaPunjungWicaksono/TokoKomputerCI/blob/master/screenshot/login.png)
