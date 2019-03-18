@@ -1,5 +1,5 @@
 DATABASE
-![alt_text](https://github.com/IlyasaPunjungWicaksono/TokoKomputerCI/blob/master/database.PNG)
+![alt_text](https://github.com/IlyasaPunjungWicaksono/TokoKomputerCI/blob/master/screenshot/database.PNG)
 <br>
 
 LOGIN
