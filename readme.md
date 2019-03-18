@@ -3,5 +3,5 @@ DATABASE
 <br>
 
 LOGIN
-![alt_text](https://github.com/IlyasaPunjungWicaksono/TokoKomputerCI/screenshot/blob/master/login.PNG)
+![alt_text](https://github.com/IlyasaPunjungWicaksono/TokoKomputerCI/blob/master/screenshot/login.PNG)
 
